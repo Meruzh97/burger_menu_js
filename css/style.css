@@ -72,7 +72,7 @@ body._lock{
 }
 
 .menu__sub-list li:last-child{
-    margin: 0   ;
+    margin: 0;
 }
 
 .menu__sub-list li{
@@ -106,7 +106,7 @@ body._lock{
 }
 .page__sub-title {
     font-size: 30px;
-
+    margin: 0 0 20px 0;
 }
 .page__text p{
     margin: 0 0 20px 0;
